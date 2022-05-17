@@ -1,21 +1,21 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you </h1>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=tanvir-faysal-xeon" alt="tanvir-faysal-xeon"/>       
-    <a href="https://github.com/tanvir-faysal-xeon?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/tanvir-faysal-xeon" alt="Repos"/></a> 
-    <img src="https://badges.pufler.dev/years/tanvir-faysal-xeon" alt="Active_Years"/>  
-    <a href="https://github.com/tanvir-faysal-xeon/tanvir-faysal-xeon" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/tanvir-faysal-xeon" alt="commits"/>   
-    <a href="https://github.com/tanvir-faysal-xeon?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/tanvir-faysal-xeon?color=4C1&logo=github"></a>
-    <a href="https://github.com/tanvir-faysal-xeon/tanvir-faysal-xeon" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/tanvir-faysal-xeon/tanvir-faysal-xeon?label=Profile%20update&style=fflat-square"></a>
-    <!--<a href="https://github.com/tanvir-faysal-xeon" target="_blank"><img alt="tanvir-faysal-xeon" src="https://badges.pufler.dev/visits/tanvir-faysal-xeon/tanvir-faysal-xeon?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
-    <!--<img src="https://badges.pufler.dev/gists/tanvir-faysal-xeon" alt="tanvir-faysal-xeon"/>-->
-    <!--<img src="https://readme-jokes.vercel.app/api" alt="tanvir-faysal-xeon"/>-->
+    <img src="https://komarev.com/ghpvc/?username=tanvirfaysal11" alt="tanvirfaysal11"/>       
+    <a href="https://github.com/tanvirfaysal11?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/tanvir-faysal-xeon" alt="Repos"/></a> 
+    <img src="https://badges.pufler.dev/years/tanvirfaysal11" alt="Active_Years"/>  
+    <a href="https://github.com/tanvir-faysal-xeon/tanvirfaysal11" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/tanvir-faysal-xeon" alt="commits"/>   
+    <a href="https://github.com/tanvirfaysal11?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/tanvir-faysal-xeon?color=4C1&logo=github"></a>
+    <a href="https://github.com/tanvirfaysal11/tanvirfaysal11" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/tanvirfaysal11/tanvirfaysal11?label=Profile%20update&style=fflat-square"></a>
+    <!--<a href="https://github.com/tanvirfaysal11" target="_blank"><img alt="tanvirfaysal11" src="https://badges.pufler.dev/visits/tanvirfaysal11/tanvirfaysal11?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
+    <!--<img tanvirfaysal11" alt="tanvirfaysal11"/>-->
+    <!--<img src="https://readme-jokes.vercel.app/api" alt="tanvirfaysal11"/>-->
 </p> 
 
 <h3 align="center">Hi 👋, I'm Tanvir Faysal</h3>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir-faysal-xeon" alt="tanvir-faysal-xeon" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirfaysal11" alt="tanvirfaysal11" /></a> </p>
 
 ---
 
@@ -205,9 +205,9 @@ const tanvir11 = {
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/tanvir-faysal-xeon">
+<a href="https://github.com/tanvirfaysal11">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanvir-faysal-xeon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanvir-faysal-xeon&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanvirfaysal11&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -215,7 +215,7 @@ const tanvir11 = {
 
 ### ⚡ &nbsp;Recent GitHub Activity
   
-<a href="https://github.com/tanvir-faysal-xeon"><img alt="tanvir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanvir-faysal-xeon&custom_title=Tanvir's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/tanvirfaysal11"><img alt="tanvir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanvirfaysal11&custom_title=Tanvir's%20Contribution%20Graph&theme=react-dark" /></a>
    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
