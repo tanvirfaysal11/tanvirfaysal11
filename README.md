@@ -1,6 +1,7 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you </h1>
 
 <p align="center"> 
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=tanvirfaysal11" alt="Visitor"/>
     <img src="https://komarev.com/ghpvc/?username=tanvirfaysal11" alt="tanvirfaysal11"/>       
     <a href="https://github.com/tanvirfaysal11?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/tanvir-faysal-xeon" alt="Repos"/></a> 
     <img src="https://badges.pufler.dev/years/tanvirfaysal11" alt="Active_Years"/>  
