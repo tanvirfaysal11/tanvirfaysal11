@@ -16,7 +16,7 @@
 <h3 align="center">Hi 👋, I'm Tanvir Faysal</h3>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirfaysal11" alt="tanvirfaysal11" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir-faysal-xeon" alt="tanvir-faysal-xeon" /></a> </p> -->
 
 ---
 
@@ -221,7 +221,7 @@ const tanvir11 = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60px"></a>
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="30px" height="30px"></a>
 </h3> 
 <p align="center">
     <a href="https://www.linkedin.com/in/tanvir-faysal-tf11/" target="_blank"><img alt="LinkedIn" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
