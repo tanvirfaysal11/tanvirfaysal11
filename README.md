@@ -16,7 +16,7 @@
 <h3 align="center">Hi 👋, I'm Tanvir Faysal</h3>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir-faysal-xeon" alt="tanvir-faysal-xeon" /></a> </p> -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirfaysal11&theme=gruvbox" alt="tanvir-faysal-xeon" /></a> </p>
 
 ---
 
@@ -129,9 +129,9 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" />
+        <img src="assets/mui.png" width="48" height="48" alt="Material Ui" />
       </a>
-      <br>TailwindCSS
+      <br>Material Ui
     </td>
     <td align="center" width="96">
       <a href="#" >
