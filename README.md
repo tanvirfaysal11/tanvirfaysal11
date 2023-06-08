@@ -3,14 +3,14 @@
 <p align="center"> 
     <img src="https://visitor-badge.laobi.icu/badge?page_id=tanvirfaysal11" alt="Visitor"/>
     <img src="https://komarev.com/ghpvc/?username=tanvirfaysal11" alt="tanvirfaysal11"/>       
-    <a href="https://github.com/tanvirfaysal11?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/tanvir-faysal-xeon" alt="Repos"/></a> 
+    <a href="https://github.com/tanvirfaysal11?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/tanvirfaysal11" alt="Repos"/></a> 
     <img src="https://badges.pufler.dev/years/tanvirfaysal11" alt="Active_Years"/>  
-    <a href="https://github.com/tanvir-faysal-xeon/tanvirfaysal11" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/tanvir-faysal-xeon" alt="commits"/>   
-    <a href="https://github.com/tanvirfaysal11?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/tanvir-faysal-xeon?color=4C1&logo=github"></a>
+    <a href="https://github.com/tanvirfaysal11/tanvirfaysal11" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/tanvirfaysal11" alt="commits"/>   
+    <a href="https://github.com/tanvirfaysal11?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/tanvirfaysal11?color=4C1&logo=github"></a>
     <a href="https://github.com/tanvirfaysal11/tanvirfaysal11" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/tanvirfaysal11/tanvirfaysal11?label=Profile%20update&style=fflat-square"></a>
-    <!--<a href="https://github.com/tanvirfaysal11" target="_blank"><img alt="tanvirfaysal11" src="https://badges.pufler.dev/visits/tanvirfaysal11/tanvirfaysal11?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
-    <!--<img tanvirfaysal11" alt="tanvirfaysal11"/>-->
-    <!--<img src="https://readme-jokes.vercel.app/api" alt="tanvirfaysal11"/>-->
+<!--     <a href="https://github.com/tanvirfaysal11" target="_blank"><img alt="tanvirfaysal11" src="https://badges.pufler.dev/visits/tanvirfaysal11/tanvirfaysal11?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a> -->
+<!--     <img tanvirfaysal11" alt="tanvirfaysal11"/> -->
+<!--     <img src="https://readme-jokes.vercel.app/api" alt="tanvirfaysal11"/> -->
 </p> 
 
 <h3 align="center">Hi 👋, I'm Tanvir Faysal</h3>
